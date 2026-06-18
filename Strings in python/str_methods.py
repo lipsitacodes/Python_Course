@@ -10,7 +10,7 @@
 # print(text.capitalize())  # Output: "Lipsita khadgarai"
 
 # text = "  hello world  "
-# print(text.strip())  # Output: "hello world" it removes the newlines or spaces 
+# print(text.strip())  # Output: "hello world" it removes the newlines or spaces
 # print(text.lstrip()) # Output: "hello world  " it removes the newlines or spaces towards left only
 # print(text.rstrip()) # Output: "  hello world" it removes the newlines or spaces towards right only
 
